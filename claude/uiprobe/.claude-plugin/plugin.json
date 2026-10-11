@@ -1,0 +1,12 @@
+{
+  "name": "uiprobe",
+  "version": "0.1.0",
+  "description": "Automatically detect spacing, typography, color, and layout differences between your Figma design and live website.",
+  "author": {
+    "name": "Uiprobe",
+    "url": "https://www.uiprobe.io"
+  },
+  "homepage": "https://www.uiprobe.io",
+  "license": "MIT",
+  "keywords": ["figma", "design", "visual-qa", "frontend", "mcp"]
+}

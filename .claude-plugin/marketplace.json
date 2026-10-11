@@ -1,0 +1,18 @@
+{
+  "name": "uiprobe",
+  "owner": {
+    "name": "Uiprobe"
+  },
+  "metadata": {
+    "description": "Uiprobe plugins for Claude: compare a live webpage against its Figma design and fix the differences."
+  },
+  "plugins": [
+    {
+      "name": "uiprobe",
+      "source": "./claude/uiprobe",
+      "description": "Automatically detect spacing, typography, color, and layout differences between your Figma design and live website.",
+      "category": "design",
+      "homepage": "https://www.uiprobe.io"
+    }
+  ]
+}
